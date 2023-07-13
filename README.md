@@ -2,6 +2,11 @@
 
 [![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AniGP)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AniGP/count.svg" />
+</p>
+
 <!--
 **AniGP/AniGP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
